@@ -1,14 +1,13 @@
-         ___        ______     ____ _                 _  ___  
-        / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
-       / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
-      / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
-     /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
- ----------------------------------------------------------------- 
+# My Very First Website
 
+Welcome!
 
-Hi there! Welcome to AWS Cloud9!
+This is not only my very first website, but also my very first fully-fleshed coding project!
 
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
+With this project, I hope to better familiarize myself with both the HTML and CSS languages.
 
-Happy coding!
+I also hope to deepen my understanding of a well-used CLI, and storing/hosting my code on an external server, such as GitHub.
+
+There's a lot of moving components here for an amateur developer so expect many broken links and other newbie-typical faux-pas (faux-pases?)
+
+With any luck the final project will look semi-professional, and will help set me up for the other milestone projects later in my course.
